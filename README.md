@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/MEU%20SITE-20B2AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Meu Site">
 </a>
 <br>
-<a href="https://docs.google.com/document/d/1lCpneUHVazArQ0dushO81tbqGCLQgmg7JhTYUvEX6WI/edit?pli=1&tab=t.0" target="_blank">
-  <img src="https://img.shields.io/badge/CURRÍCULO-WORD-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Currículo Docs">
+  <a href="https://docs.google.com/document/d/1lCpneUHVazArQ0dushO81tbqGCLQgmg7JhTYUvEX6WI/edit?pli=1&tab=t.0" target="_blank">
+  <img src="https://img.shields.io/badge/CURRÍCULO-ESCRITO-2B579A?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo Escrito">
 </a>
 <br>
 <a href="https://onedrive.live.com/:p:/g/personal/78514F59356A863A/IQBR_tRWL1B5S5yPdg6idSqQ
