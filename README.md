@@ -1,5 +1,5 @@
 <h1>Matheus Rocha Moreira<h1>
-  <a href="https://www.linkedin.com/in/matheus-rocha-a68140403/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-rocha-moreira-a68140403/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <br>
